@@ -1,0 +1,1 @@
+# Swift-4-Xcode-9---How-To-Parse-JSON-GET-Data-in-to-TableView-with-Image-Using-SwiftyJson-KingF
